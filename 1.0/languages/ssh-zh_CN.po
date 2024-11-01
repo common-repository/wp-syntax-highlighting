@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp_sh\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-25 22:36+0800\n"
+"PO-Revision-Date: 2011-04-25 22:41+0800\n"
+"Last-Translator: zhjiun <zhjiun@gmail.com>\n"
+"Language-Team: buzheng.org <admin@buzheng.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\devwzj\\SimpleSyntaxHighlighting\n"
+
+# WP语法高亮
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:24
+msgid "WP Syntax Highlighting"
+msgstr "WP代码语法高亮"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:85
+msgid "WP Syntax Highlighting Configuration"
+msgstr "配置 WP Syntax Highlighting"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:88
+msgid "WP Syntax Highlighting is a simple wordpress plugin to help you hightlight code syntax on your blog. It supports many programming languages."
+msgstr "WP Syntax Highlighting是一款用来为wordpress日志中的代码实现语法高亮的插件，支持多种语言。"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:90
+msgid "Author"
+msgstr "作者"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:94
+msgid "Spaces instead of tabs"
+msgstr "制表符扩展的空格数？"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:98
+msgid "Display line numbers?"
+msgstr "显示行号？"
+
+#: D:\devwzj\SimpleSyntaxHighlighting/wp-syntax-highlighting.php:104
+msgid "Display zebra stripe?"
+msgstr "显示斑马线？"
+
